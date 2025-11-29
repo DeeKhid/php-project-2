@@ -36,5 +36,3 @@ gendiff filepath1.json filepath2.json
 }
 ```
 
-[![asciicast](https://asciinema.org/connect/ae644b7a-5871-455d-98a8-15726ccf950a.svg)](https://asciinema.org/connect/ae644b7a-5871-455d-98a8-15726ccf950a)
-
